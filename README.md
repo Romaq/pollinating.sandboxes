@@ -12,4 +12,6 @@
     6. Consider application of magic: theorematurgy may do the trick.
 3. Form the process for adding individual mods and testing to verify the mods merge correctly. The process should also provide a list of what mod versions as well as which mods are "client only" (and should be deactivated on the server) or "server only" (and can be safely disabled from the client to conserve load time and memory).
     1. https://youtu.be/Ykqol8zOYpw has a quick tutorial on making the modpack using the CurseForge tool. Instructions for uploading the pack are in the text. Note from the "uploading" video: "Any third party mods or anything from third party the modpack will be automatically declined." Alrighty then, something to keep min mind. My next stop is to begin building the modpack in CurseForge and determine how to synchronize issues and work with the Github repository.
-    2. I have a basic image for the modpack logo. I should tinker with my user settings and any other required images.
+    2. I have a basic image for the modpack logo. I should tinker with my user settings and any other required images. BayGames (author of the videos mentioned) notes the logo should be 400x400. https://youtu.be/i3W9ng12Msg has great advice on how to go about this.
+    3. Examine Gravitas² on CurseForge to determine how they do it.
+    4. Set up a table of added mods, version, filesize, category, and so on to maintain an overview of dependencies.
