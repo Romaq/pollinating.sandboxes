@@ -1,0 +1,38 @@
+{
+  "minecraft": {
+    "version": "1.21.1",
+    "modLoaders": [
+      {
+        "id": "neoforge-21.1.256",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "pollinating sandboxes",
+  "version": "26-10-09-test",
+  "author": "",
+  "overrides": "overrides",
+  "files": [
+    {
+      "projectID": 1669399,
+      "fileID": 8740467,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 302973,
+      "fileID": 8995321,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 306770,
+      "fileID": 7730942,
+      "required": true,
+      "isLocked": false
+    }
+  ],
+  "image": "profileImage/pollinating sandboxes.png"
+}
