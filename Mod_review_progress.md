@@ -69,13 +69,13 @@
 |---|---|---|
 | **FTB Quests** | Tutorials, optional quest branches, milestones, and rewards. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) |
 | **FTB Library / FTB Teams** | Add only the versions required by FTB Quests. | [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) · [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) |
-| **EMI** **or** **JEI** | Recipe discovery and crafting paths; choose a primary recipe viewer. | [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) · [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) |
-| **Jade** | Inspect blocks, inventories, and machinery in the world. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade) |
-| **Xaero's Minimap** | Navigation and waypoints while prospecting. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) |
-| **Xaero's World Map** | World-scale mapping for exploration and travel routes. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) |
-| **Mouse Tweaks** | Less repetitive inventory movement. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) |
-| **Controlling** | Find and resolve keybind conflicts in a large modpack. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling) |
-| **AppleSkin** (conditional) | Hunger/saturation information; test against TFC nutrition interface. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin) |
+| **EMI** or &rarr;**JEI** | Recipe discovery and crafting paths; choose a primary recipe viewer. | [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) · [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) |
+| &rarr;**Jade** | Inspect blocks, inventories, and machinery in the world. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade) |
+| &rarr;**Xaero's Minimap** | Navigation and waypoints while prospecting. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) |
+| &rarr;**Xaero's World Map** | World-scale mapping for exploration and travel routes. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) |
+| &rarr;**Mouse Tweaks** | Less repetitive inventory movement. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) |
+| &rarr;**Controlling** | Find and resolve keybind conflicts in a large modpack. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling) |
+| &rarr;**AppleSkin** (conditional) | Hunger/saturation information; test against TFC nutrition interface. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin) |
 | **FTB Chunks** (conditional) | Chunk claiming/loading for multiplayer factories. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) |
 
 ## F. Performance candidates — add only after baseline tests
