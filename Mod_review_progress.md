@@ -15,14 +15,15 @@
 
 ## A. Essential core — first compatibility test
 
-| Mod | Why consider it | Review status / link |
-|---|---|---|
-| **TerraFirmaCraft** | Overhauls survival, geology, metallurgy, farming, and food. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) — confirm exact 1.21.1 build |
-| **Create** | Mechanical power, belts, presses, processing, trains, and logistics. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create) — confirm version pairing |
-| **Create Aeronautics** | Essential physics-based aircraft and mobile contraptions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) — 1.21.1 NeoForge listing verified |
-| **TFC Aeronautics** | Compatibility between TFC, Create, and Aeronautics. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) — 1.21.1 beta; test carefully |
-| **TFCreate Compat** | Aligns Create recipes/materials with TFC's progression. | [GitHub](https://github.com/Ayaibu/TFCreate-Compat) — inspect supported builds and overlap with Sky Arc scripts |
-| **Create Aeronautics: Compatibility** | Addresses compatibility with other mods on moving contraptions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability) — confirm actual need and interaction with TFC Aeronautics |
+| Mod | Why consider it | Review status / link | Modrinth? |
+|---|---|---|---|
+| **TerraFirmaCraft** | Overhauls survival, geology, metallurgy, farming, and food. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) — confirm exact 1.21.1 build | [x] |  
+| **Patchouli** | Dependency for TFC, required for in-game books. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli) — dependency for TFC | [x] |  
+| **Create** | Mechanical power, belts, presses, processing, trains, and logistics. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create) — confirm version pairing | [x] |  
+| **Create Aeronautics** | Essential physics-based aircraft and mobile contraptions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) — 1.21.1 NeoForge listing verified | [x] |  
+| **TFC Aeronautics** | Compatibility between TFC, Create, and Aeronautics. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) — 1.21.1 beta; test carefully | [_] |  
+| **TFCreate Compat** | Aligns Create recipes/materials with TFC's progression. | [GitHub](https://github.com/Ayaibu/TFCreate-Compat) — inspect supported builds and overlap with Sky Arc scripts | [x] |  
+| **Create Aeronautics: Compatibility** | Addresses compatibility with other mods on moving contraptions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability) — confirm actual need and interaction with TFC Aeronautics | [x] |  
 
 **Important:** These are candidates, not a claim that all six work together without conflicts. Check dependencies, release versions, and duplicate recipe modifications before installation.
 
