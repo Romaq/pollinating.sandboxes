@@ -40,6 +40,7 @@
 | **Dynamic Trees** | Trees have an obvious growth cycle, and harvesting has tradeoffs. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [x]  
 | **Dynamic Trees - TFC** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc) | [x]
 | **Dynamic Trees TFC - Seeds** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-tfc-seeds) | [x]
+| **TFC Weather Systems** | More realistic weather for TFC | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tfc-weather-systems-realistic-weather-for) | [_]
 
 **Notes:**
 1. The definition of [Topography vs. Topology](https://thisvsthat.io/topography-vs-topology) may be useful in this discussion. 
@@ -49,7 +50,11 @@
 5. Surface erosion, streams, lakes are not a factor in **TFC** world generation. I would like erosion over time to be a factor. I would also prefer lakes and streams to form more naturally.
 6. In many aspects of **Minecraft** and modpacks in general, environmental dangers are due to supernatural monsters or other players. **TFC** brings more of the environment to the forefront as a hazard. Technology is the solution that brings its own problems.
 
-## C. TFC survival expansion
+## C. TFC Magic?
+
+**Notes:** Looking at the place of Magic in the world, likely but not necessarily focused on Theorematurgy. More thought needs to be put into this area.
+
+## D. TFC survival expansion
 
 | Mod | Why consider it | Link |
 |---|---|---|
@@ -58,7 +63,7 @@
 
 **Review:** Verify food decay, nutrition, crop climate requirements, and whether extra cooking recipes trivialize TFC.
 
-## D. Storage and exploration convenience
+## E. Storage and exploration convenience
 
 | Mod | Why consider it | Link |
 |---|---|---|
@@ -68,7 +73,7 @@
 
 **Review:** Test nested inventory behavior, food decay, TFC item size restrictions, storage-controller interoperability, and aircraft-mounted storage. Prefer physical Create logistics for factories even if central search is available.
 
-## E. Create engineering and transport
+## F. Create engineering and transport
 
 | Mod | Why consider it | Link |
 |---|---|---|
@@ -80,7 +85,7 @@
 
 **Recommendation:** Defer Factory Must Grow and Enchantment Industry until core progression is playable. Avoid adding industrial systems simply to increase mod count.
 
-## F. Quests and interface
+## G. Quests and interface
 
 | Mod | Why consider it | Link |
 |---|---|---|
@@ -95,7 +100,7 @@
 | &rarr;**AppleSkin** (conditional) | Hunger/saturation information; test against TFC nutrition interface. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin) |
 | **FTB Chunks** (conditional) | Chunk claiming/loading for multiplayer factories. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) |
 
-## G. Performance candidates — add only after baseline tests
+## H. Performance candidates — add only after baseline tests
 
 | Mod | Why consider it | Link |
 |---|---|---|
@@ -103,13 +108,13 @@
 | **FerriteCore** | Memory-use reductions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore) |
 | **Embeddium** | Client rendering optimization, **only if the exact NeoForge build is compatible with Aeronautics**. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/embeddium) |
 
-## H. Reference modpacks (study, not automatic dependencies)
+## I. Reference modpacks (study, not automatic dependencies)
 
 - [TerraFirmaCraft: Sky Arc](https://www.curseforge.com/minecraft/search?class=modpacks&search=TerraFirmaCraft%20Sky%20Arc) — reference for TFC/Create/Aeronautics recipe integration; inspect license before copying scripts.
 - [All the Mods: Gravitas²](https://www.curseforge.com/minecraft/modpacks/all-the-mods-gravitas2) — reference for quests and instructional progression, **not** for GregTech gating.
 - [Terraero](https://www.curseforge.com/minecraft/search?class=modpacks&search=Terraero) — optional industrial and aircraft ideas.
 
-## I. Suggested review order
+## J. Suggested review order
 
 1. **Core compatibility:** TFC + Create + Aeronautics, then integration addons.
 2. **Recipe economy:** Check TFC metal requirements and early Create access; test first-aircraft recipes.
