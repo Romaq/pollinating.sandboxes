@@ -32,7 +32,24 @@
 2. To preserve a sense of continuation for testing, I plan to use that "seed zero" moving forward.  
 3. I note the mod claims **Modrinth** has a more updated version of **Create**, but both sites offer the same **Create** v. 6.0.10 for 1.21.1.
 
-## B. TFC survival expansion
+## B. World Topology, Topography, and environmental dangers
+
+| Mod | Why consider it | Link |  Modrinth? |  
+|---|---|---|---|  
+| **TerraFirmaEarth** | Expanding and smoothing biome transition, cleaner terrain, and better hydrology. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth) | [_]  
+| **Dynamic Trees** | Trees have an obvious growth cycle, and harvesting has tradeoffs. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [x]  
+| **Dynamic Trees - TFC** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc) | [x]
+| **Dynamic Trees TFC - Seeds** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-tfc-seeds) | [x]
+
+**Notes:**
+1. The definition of [Topography vs. Topology](https://thisvsthat.io/topography-vs-topology) may be useful in this discussion. 
+2. **Minecraft** at its core presumes a flat and *practically* infinite topology: 7 times the size of planet Earth surface area with a storage requirement simply beyond most enduser budget and access.
+3. "Curving" the topology can be accomplished in **Minecraft** by teleporting the player from one boundary to another. I dislike forced teleportation for this purpose. **Minecraft**'s world is flat.
+4. **Minecraft** Topography *suxx0rs*. Biomes are blotches dropped into the world based upon noise generation. There is no guiding principle for warm vs. cold biomes. There is also no hydrology. Surface water is set at a baseline of 63, rivers are gouged below that surface level and lakes are "smaller seas." Part of the appeal of **TFC** is that biomes are guided by the principle "atmospheric hydrology is driven east to west up to a count of blocks distant from origin (0x, 0z) and climate warmth is driven north to south by a similar count of blocks from origin.
+5. Surface erosion, streams, lakes are not a factor in **TFC** world generation. I would like erosion over time to be a factor. I would also prefer lakes and streams to form more naturally.
+6. In many aspects of **Minecraft** and modpacks in general, environmental dangers are due to supernatural monsters or other players. **TFC** brings more of the environment to the forefront as a hazard. Technology is the solution that brings its own problems.
+
+## C. TFC survival expansion
 
 | Mod | Why consider it | Link |
 |---|---|---|
@@ -41,7 +58,7 @@
 
 **Review:** Verify food decay, nutrition, crop climate requirements, and whether extra cooking recipes trivialize TFC.
 
-## C. Storage and exploration convenience
+## D. Storage and exploration convenience
 
 | Mod | Why consider it | Link |
 |---|---|---|
@@ -51,7 +68,7 @@
 
 **Review:** Test nested inventory behavior, food decay, TFC item size restrictions, storage-controller interoperability, and aircraft-mounted storage. Prefer physical Create logistics for factories even if central search is available.
 
-## D. Create engineering and transport
+## E. Create engineering and transport
 
 | Mod | Why consider it | Link |
 |---|---|---|
@@ -63,7 +80,7 @@
 
 **Recommendation:** Defer Factory Must Grow and Enchantment Industry until core progression is playable. Avoid adding industrial systems simply to increase mod count.
 
-## E. Quests and interface
+## F. Quests and interface
 
 | Mod | Why consider it | Link |
 |---|---|---|
@@ -78,7 +95,7 @@
 | &rarr;**AppleSkin** (conditional) | Hunger/saturation information; test against TFC nutrition interface. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin) |
 | **FTB Chunks** (conditional) | Chunk claiming/loading for multiplayer factories. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) |
 
-## F. Performance candidates — add only after baseline tests
+## G. Performance candidates — add only after baseline tests
 
 | Mod | Why consider it | Link |
 |---|---|---|
@@ -86,13 +103,13 @@
 | **FerriteCore** | Memory-use reductions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore) |
 | **Embeddium** | Client rendering optimization, **only if the exact NeoForge build is compatible with Aeronautics**. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/embeddium) |
 
-## G. Reference modpacks (study, not automatic dependencies)
+## H. Reference modpacks (study, not automatic dependencies)
 
 - [TerraFirmaCraft: Sky Arc](https://www.curseforge.com/minecraft/search?class=modpacks&search=TerraFirmaCraft%20Sky%20Arc) — reference for TFC/Create/Aeronautics recipe integration; inspect license before copying scripts.
 - [All the Mods: Gravitas²](https://www.curseforge.com/minecraft/modpacks/all-the-mods-gravitas2) — reference for quests and instructional progression, **not** for GregTech gating.
 - [Terraero](https://www.curseforge.com/minecraft/search?class=modpacks&search=Terraero) — optional industrial and aircraft ideas.
 
-## H. Suggested review order
+## I. Suggested review order
 
 1. **Core compatibility:** TFC + Create + Aeronautics, then integration addons.
 2. **Recipe economy:** Check TFC metal requirements and early Create access; test first-aircraft recipes.
@@ -101,9 +118,9 @@
 5. **Expansion mods:** Evaluate transport, farming, and optional power systems individually.
 6. **Performance:** Establish a clean benchmark and test optimizers individually.
 
-## I. Review decisions to make
+## J. Review decisions to make
 
-- [ ] Approve core three mods as the pack's required identity.
+- [x] Approve core three mods as the pack's required identity.
 - [ ] Choose the TFC/Create recipe integration strategy; avoid conflicting script packs.
 - [ ] Decide whether FirmaLife is part of the default survival experience.
 - [ ] Select a storage approach after testing food and item behavior.
