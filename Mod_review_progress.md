@@ -27,6 +27,11 @@
 
 **Important:** These are candidates, not a claim that all six work together without conflicts. Check dependencies, release versions, and duplicate recipe modifications before installation.
 
+**Notes:**
+1. I can use the CurseForge client to combine all the elements. At the moment, **TFC Aeronautics** is unavailable on **Modrinth**. After adding **Patchouli** as a **TFC** dependency, I was able to run the modpack up to creating a world with the "*pollinating sandboxes* seed.  
+2. To preserve a sense of continuation for testing, I plan to use that "seed zero" moving forward.  
+3. I note the mod claims **Modrinth** has a more updated version of **Create**, but both sites offer the same **Create** v. 6.0.10 for 1.21.1.
+
 ## B. TFC survival expansion
 
 | Mod | Why consider it | Link |
