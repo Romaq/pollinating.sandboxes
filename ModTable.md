@@ -1,24 +1,45 @@
-# Mod Table for *pollinating sandboxes*
+# Mod Table for **pollinating sandboxes**
 
 | Mod | Curseforge | Modrinth | Confirmed License | Category | Role |
 |---|---|---|---|---|---|
 | **TerraFirmaCraft** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) | [:white_check_mark:](https://modrinth.com/mod/terrafirmacraft) | [EUPL-1.2](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/license) | Core | Realistic Atmosphere |
 | **Patchouli** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/patchouli) | [:white_check_mark:](https://modrinth.com/mod/patchouli) | [CC-BY-NC-SA-3.0](https://www.curseforge.com/minecraft/mc-mods/patchouli/license) | Dependency | **TerraFirmaCraft**
-| **Create** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create) | [:white_check_mark:](https://modrinth.com/mod/create) | [Create Mod License](https://github.com/Creators-of-Create/Create/blob/HEAD/LICENSE.md) | Core | Tech Arc | 
-| **Create Aeronautics** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics) | [Simulated Project License](https://github.com/Creators-of-Aeronautics/Simulated-Project/blob/HEAD/LICENSE.md) | Core | Tech Arc |
+| **Create** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create) | [:white_check_mark:](https://modrinth.com/mod/create) | [Create Mod](https://github.com/Creators-of-Create/Create/blob/HEAD/LICENSE.md) | Core | Tech Arc | 
+| **Create Aeronautics** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics) | [Simulated Project](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics/license) | Core | Tech Arc |
+| **Sable** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/sable) | [:white_check_mark:](https://modrinth.com/mod/sable) | [PolyForm Shield](https://www.curseforge.com/minecraft/mc-mods/sable/license) | Dependency | **Create Aeronautics** | 
 | **TFC Aeronautics** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) | :x: | [MIT](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics/license) | Dependency | TFC & Create |
 | **TFCreate Compat** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat) | [:white_check_mark:](https://modrinth.com/mod/tfcreate-compat) | [MIT](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat/license) | Dependency | TFC & Create
 | **Create Aeronautics: Compatibility** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics-compatability) | [MIT](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability/licensea) | Dependency | TFC & Create |
 | ~~TerraFirmaEarth~~ | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth) | :x: | [EUPL-1.2](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth/license) | Environment | ***No 1.21.1*** |
 | **Dynamic Trees** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [:white_check_mark:](https://modrinth.com/mod/dynamictrees) | [MIT](https://www.curseforge.com/minecraft/mc-mods/dynamictrees/license) | Environment | Arborial 
 | **Dynamic Trees TFC** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [:white_check_mark:](https://modrinth.com/mod/dynamictreestfc) | [MIT](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc/license) | Dependency | **Dynamic Trees** |
-| **Dynamic Trees TFC - Seeds** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-tfc-seeds) | [:white_check_mark:](https://modrinth.com/mod/dynamic-trees-tfc-seeds) | [MIT](https://modrinth.com/mod/dynamic-trees-tfc-seeds/license) | Dependent | **Dynamic Trees TFC** |
+| ~~Dynamic Trees TFC - Seeds~~ | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-tfc-seeds) | [:white_check_mark:](https://modrinth.com/mod/dynamic-trees-tfc-seeds) | [MIT](https://modrinth.com/mod/dynamic-trees-tfc-seeds/license) | Dependent | ***No 1.21.1***
 | **TFC Weather** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfc-weather) | [:white_check_mark:](https://modrinth.com/mod/tfc-weather) | [BSD License](https://www.curseforge.com/minecraft/mc-mods/tfc-weather/license) | Environment | Weather |
+| **TFCScorch&Frost** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfcsf-tfcscorch-frost) | :x: | [MIT](https://www.curseforge.com/minecraft/mc-mods/license) | Environment | Weather |
+| **FTB Library (NeoForge)** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/license) | **FTB** | Dependency
+| **FTB Obsidian** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-obsidian) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-obsidian/license) | **FTB** | Datapack/ Resource Pack Loader
+| **Architectury API** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | [:white_check_mark:](https://modrinth.com/mod/architectury-api) | [LGPL-3.0-only](https://www.curseforge.com/minecraft/mc-mods/architectury-api/license) | Dependency | **FTB**
 
 **Notes:**
 1. If the mod is not on **Modrinth**, I can not upload the datapack on **Modrinth**. Instead, once **pollinating sandboxes* is uploaded to a working version, I will ask politely for the modder to consider uploading to the Modrinth website. Best I can do.
 2. I need to confirm yet if **TFC Weather** requires **Weather2**
-3. TerraFirmaEarth does not support Minecraft 1.21.1, and appeared to be the best worldgen modification.
+3. ***TerraFirmaEarth*** does not support ***Minecraft*** 1.21.1, and appeared to be the best (*only*) worldgen modification.
+4. ***Dynamic trees TFC - Seeds***, same issue. No support for ***MC*** 1.21.1.
+
+## Resource Pack Table for **pollinating sandboxes**
+| Resource Pack | Curseforge | Modrinth | Confirmed License |
+|---|---|---|---|
+| **Faithful 32x** | [:white_check_mark:](https://www.curseforge.com/minecraft/texture-packs/faithful-32x) | [:white_check_mark:](https://modrinth.com/resourcepack/faithful-32x) | [Faithful](https://www.curseforge.com/minecraft/texture-packs/faithful-32x/license) |
+| **ILAORE's TFC 32x** | [:white_check_mark:](https://www.curseforge.com/minecraft/texture-packs/ilaores-tfc-32x) | [:white_check_mark:](https://modrinth.com/resourcepack/ilaores-tfc-32x) | [MIT](https://www.curseforge.com/minecraft/texture-packs/ilaores-tfc-32x/license) |
+| **Anvilovel** | [:white_check_mark:](https://www.curseforge.com/minecraft/texture-packs/anvilovel) | :x: | [Creative Commons 4.0](https://www.curseforge.com/minecraft/texture-packs/anvilovel) |
+| **Bushy Leaves for Faithful 32x** | [:white_check_mark:](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-for-faithful-32x) | [:white_check_mark:](https://modrinth.com/resourcepack/bushy-leaves-for-faithful-32x) | [Public Domain](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-for-faithful-32x/license)
+| **Improved Create 32x** | [:white_check_mark:](https://www.curseforge.com/minecraft/texture-packs/improved-create-32x) | [:white_check_mark:](https://modrinth.com/resourcepack/improved-create-32x) | [MIT License](https://www.curseforge.com/minecraft/texture-packs/improved-create-32x/license) |
+
+
+## Datapack Table for **pollinating sandboxes**
+| Datapack | Curseforge | Modrinith | Confirmed License |
+|---|---|---|---|
+| **Create Aeronautics AirpresureFix[^1]** | [:white_check_mark:](https://www.curseforge.com/minecraft/data-packs/create-aeronautics-airpresurefix) | [:white_check_mark:](https://modrinth.com/datapack/create-aeronautics-airpresurefix) | [All Rights Reserved](https://modrinth.com/datapack/create-aeronautics-airpresurefix/license) |
 
 ## C. TFC Magic?
 
@@ -90,27 +111,4 @@
 - [All the Mods: Gravitas²](https://www.curseforge.com/minecraft/modpacks/all-the-mods-gravitas2) — reference for quests and instructional progression, **not** for GregTech gating.
 - [Terraero](https://www.curseforge.com/minecraft/search?class=modpacks&search=Terraero) — optional industrial and aircraft ideas.
 
-## J. Suggested review order
-
-1. **Core compatibility:** TFC + Create + Aeronautics, then integration addons.
-2. **Recipe economy:** Check TFC metal requirements and early Create access; test first-aircraft recipes.
-3. **Storage:** Add one system at a time; test food decay and item metadata.
-4. **Quest framework:** Write original tutorial, milestone, and optional engineering branches.
-5. **Expansion mods:** Evaluate transport, farming, and optional power systems individually.
-6. **Performance:** Establish a clean benchmark and test optimizers individually.
-
-## J. Review decisions to make
-
-- :white_check_mark: Approve core three mods as the pack's required identity.
-- [ ] Choose the TFC/Create recipe integration strategy; avoid conflicting script packs.
-- [ ] Decide whether FirmaLife is part of the default survival experience.
-- [ ] Select a storage approach after testing food and item behavior.
-- [ ] Choose a quest mod after confirming 1.21.1 NeoForge support.
-- [ ] Determine whether optional electrical power or oil refining fits the intended progression.
-- [ ] Approve exact mod versions **only after** a dependency and launch test.
-
-**Verification caveat:** Links point to project pages for review, not preselected compatible download files. Individual mods may lack 1.21.1 NeoForge builds or require specific dependency versions. No mod installation or configuration change has been made.
-
-[^1] **Minecraft 1.21.1** is the latest **Minecraft** version supported by **TFC**, and so anchors this particular version.  
-[^2] **Forge** has made itself odious because of the behavior by the mod leader, *LexManos*. [**Neoforge** explained the reason for the fork.](https://neoforged.net/news/theproject/) I also note the most simple way to explain the difference between **NeoForge** and **Fabric**. You can carry a bicycle on a car, but you can't carry a car on a bicycle. **NeoForge** is much more complex, hence slower to update and debug, but it supplies code pipelines that more complex mods (such as **TFC**) will need to hook into without elaborate mods that duplicate just using **NeoForge**. Note: It is my intention to add [**Sinytra Connector**](https://connector.sinytra.org/) with a few functional **Fabric** mods to leave open that possibility for adding **Fabric** mods should one wish to do sos.  
-[^3] Experience with **GregTech* has been unfavorable due to being overly "grindy" without appropriate reward, and unnecessarily complicates progression.
+[^1] Sic
