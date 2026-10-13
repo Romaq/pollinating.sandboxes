@@ -17,13 +17,13 @@
 
 | Mod | Why consider it | Review status / link | Modrinth? |
 |---|---|---|---|
-| **TerraFirmaCraft** | Overhauls survival, geology, metallurgy, farming, and food. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) — confirm exact 1.21.1 build | [x] |  
-| **Patchouli** | Dependency for TFC, required for in-game books. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli) — dependency for TFC | [x] |  
-| **Create** | Mechanical power, belts, presses, processing, trains, and logistics. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create) — confirm version pairing | [x] |  
-| **Create Aeronautics** | Essential physics-based aircraft and mobile contraptions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) — 1.21.1 NeoForge listing verified | [x] |  
-| **TFC Aeronautics** | Compatibility between TFC, Create, and Aeronautics. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) — 1.21.1 beta; test carefully | [_] |  
-| **TFCreate Compat** | Aligns Create recipes/materials with TFC's progression. | [GitHub](https://github.com/Ayaibu/TFCreate-Compat) — inspect supported builds and overlap with Sky Arc scripts | [x] |  
-| **Create Aeronautics: Compatibility** | Addresses compatibility with other mods on moving contraptions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability) — confirm actual need and interaction with TFC Aeronautics | [x] |  
+| **TerraFirmaCraft** | Overhauls survival, geology, metallurgy, farming, and food. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) — confirm exact 1.21.1 build | :white_check_mark: |  
+| **Patchouli** | Dependency for TFC, required for in-game books. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli) — dependency for TFC | :white_check_mark: |  
+| **Create** | Mechanical power, belts, presses, processing, trains, and logistics. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create) — confirm version pairing | :white_check_mark: |  
+| **Create Aeronautics** | Essential physics-based aircraft and mobile contraptions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) — 1.21.1 NeoForge listing verified | :white_check_mark: |  
+| **TFC Aeronautics** | Compatibility between TFC, Create, and Aeronautics. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) — 1.21.1 beta; test carefully | :x: |  
+| **TFCreate Compat** | Aligns Create recipes/materials with TFC's progression. | [GitHub](https://github.com/Ayaibu/TFCreate-Compat) — inspect supported builds and overlap with Sky Arc scripts | :white_check_mark: |  
+| **Create Aeronautics: Compatibility** | Addresses compatibility with other mods on moving contraptions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability) — confirm actual need and interaction with TFC Aeronautics | :white_check_mark: |  
 
 **Important:** These are candidates, not a claim that all six work together without conflicts. Check dependencies, release versions, and duplicate recipe modifications before installation.
 
@@ -36,12 +36,12 @@
 
 | Mod | Why consider it | Link |  Modrinth? |  
 |---|---|---|---|  
-| **TerraFirmaEarth** | Expanding and smoothing biome transition, cleaner terrain, and better hydrology. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth) | [_]  
-| **Dynamic Trees** | Trees have an obvious growth cycle, and harvesting has tradeoffs. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [x]  
-| **Dynamic Trees - TFC** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc) | [x]
-| **Dynamic Trees TFC - Seeds** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-tfc-seeds) | [x]
-| **TFC Weather Systems** | More realistic weather for TFC | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tfc-weather-systems-realistic-weather-for) | [_]
-| **** | More realistic weather for TFC | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tfc-weather-systems-realistic-weather-for) | [_]
+| **TerraFirmaEarth** | Expanding and smoothing biome transition, cleaner terrain, and better hydrology. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth) | :x:  
+| **Dynamic Trees** | Trees have an obvious growth cycle, and harvesting has tradeoffs. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | :white_check_mark:  
+| **Dynamic Trees - TFC** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc) | :white_check_mark:
+| **Dynamic Trees TFC - Seeds** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-tfc-seeds) | :white_check_mark:
+| **TFC Weather Systems** | More realistic weather for TFC | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tfc-weather-systems-realistic-weather-for) | :x:
+| **** | More realistic weather for TFC | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tfc-weather-systems-realistic-weather-for) | :x:
 
 **Notes:**
 1. The definition of [Topography vs. Topology](https://thisvsthat.io/topography-vs-topology) may be useful in this discussion. 
@@ -55,8 +55,8 @@
 
 | Mod | Why consider it | Link |
 |---|---|---|
-| **theorematurgy** | A magic system for adding a pinch of buff to mundane tools and weapons | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/theorematurgy) | [x] |
-| **TOM x TFC** | A TFC connetor | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc) | [x] |
+| **theorematurgy** | A magic system for adding a pinch of buff to mundane tools and weapons | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/theorematurgy) | :white_check_mark: |
+| **TOM x TFC** | A TFC connetor | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc) | :white_check_mark: |
 
 
 **Notes:** Minecraft Vanilla has hints of the supernatural (mods) and arcane (basic enchantments). A well designed magic system would be fitting and allow for an extra spice to the modpack.
@@ -132,7 +132,7 @@
 
 ## J. Review decisions to make
 
-- [x] Approve core three mods as the pack's required identity.
+- :white_check_mark: Approve core three mods as the pack's required identity.
 - [ ] Choose the TFC/Create recipe integration strategy; avoid conflicting script packs.
 - [ ] Decide whether FirmaLife is part of the default survival experience.
 - [ ] Select a storage approach after testing food and item behavior.
