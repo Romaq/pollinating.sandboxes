@@ -2,39 +2,22 @@
 
 | Mod | Curseforge | Modrinth | Confirmed License | Category | Role |
 |---|---|---|---|---|---|
-| **TerraFirmaCraft** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) | [:white_check_mark:](https://modrinth.com/mod/terrafirmacraft) | [EUPL-1.2](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/license) | Core | Core |
+| **TerraFirmaCraft** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) | [:white_check_mark:](https://modrinth.com/mod/terrafirmacraft) | [EUPL-1.2](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/license) | Core | Realistic Atmosphere |
 | **Patchouli** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/patchouli) | [:white_check_mark:](https://modrinth.com/mod/patchouli) | [CC-BY-NC-SA-3.0](https://www.curseforge.com/minecraft/mc-mods/patchouli/license) | Dependency | **TerraFirmaCraft**
-| **Create** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create) | [:white_check_mark:](https://modrinth.com/mod/create) | [Create Mod License](https://github.com/Creators-of-Create/Create/blob/HEAD/LICENSE.md) | Core | Core | 
-| **Create Aeronautics** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics) | [Simulated Project License](https://github.com/Creators-of-Aeronautics/Simulated-Project/blob/HEAD/LICENSE.md) | Core | Core |
-| **TFC Aeronautics** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) | :x: | [MIT](https://opensource.org/license/MIT) | Dependency | TFC & Create |
+| **Create** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create) | [:white_check_mark:](https://modrinth.com/mod/create) | [Create Mod License](https://github.com/Creators-of-Create/Create/blob/HEAD/LICENSE.md) | Core | Tech Arc | 
+| **Create Aeronautics** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics) | [Simulated Project License](https://github.com/Creators-of-Aeronautics/Simulated-Project/blob/HEAD/LICENSE.md) | Core | Tech Arc |
+| **TFC Aeronautics** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) | :x: | [MIT](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics/license) | Dependency | TFC & Create |
 | **TFCreate Compat** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat) | [:white_check_mark:](https://modrinth.com/mod/tfcreate-compat) | [MIT](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat/license) | Dependency | TFC & Create
 | **Create Aeronautics: Compatibility** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics-compatability) | [MIT](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability/licensea) | Dependency | TFC & Create |
-
-**Important:** These are candidates, not a claim that all six work together without conflicts. Check dependencies, release versions, and duplicate recipe modifications before installation.
-
-**Notes:**
-1. I can use the CurseForge client to combine all the elements. At the moment, **TFC Aeronautics** is unavailable on **Modrinth**. After adding **Patchouli** as a **TFC** dependency, I was able to run the modpack up to creating a world with the "*pollinating sandboxes* seed.  
-2. To preserve a sense of continuation for testing, I plan to use that "seed zero" moving forward.  
-3. I note the mod claims **Modrinth** has a more updated version of **Create**, but both sites offer the same **Create** v. 6.0.10 for 1.21.1.
-
-## B. World Topology, Topography, and environmental dangers
-
-| Mod | Why consider it | Link |  Modrinth? |  
-|---|---|---|---|  
-| **TerraFirmaEarth** | Expanding and smoothing biome transition, cleaner terrain, and better hydrology. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth) | :x:  
-| **Dynamic Trees** | Trees have an obvious growth cycle, and harvesting has tradeoffs. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | :white_check_mark:  
-| **Dynamic Trees - TFC** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc) | :white_check_mark:
-| **Dynamic Trees TFC - Seeds** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-tfc-seeds) | :white_check_mark:
-| **TFC Weather Systems** | More realistic weather for TFC | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tfc-weather-systems-realistic-weather-for) | :x:
-| **** | More realistic weather for TFC | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tfc-weather-systems-realistic-weather-for) | :x:
+| **TerraFirmaEarth** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth) | :x: | [EUPL-1.2](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth/license) | Environment | World Topology |
+| **Dynamic Trees** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [:white_check_mark:](https://modrinth.com/mod/dynamictrees) | [MIT](https://www.curseforge.com/minecraft/mc-mods/dynamictrees/license) | Environment | Arborial 
+| **Dynamic Trees TFC** | [:white:check_mark:](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [:white_check_mark:](https://modrinth.com/mod/dynamictreestfc) | [MIT](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc/license) | Dependency | **Dynamic Trees** |
+| **Dynamic Trees TFC - Seeds** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-tfc-seeds) | [:white_check_mark:](https://modrinth.com/mod/dynamic-trees-tfc-seeds) | [MIT](https://modrinth.com/mod/dynamic-trees-tfc-seeds/license) | Dependent | **Dynamic Trees TFC** |
+| **TFC Weather** | [:white_check_mark](https://www.curseforge.com/minecraft/mc-mods/tfc-weather) | [:white_check_mark:](https://modrinth.com/mod/tfc-weather) | [BSD License](https://www.curseforge.com/minecraft/mc-mods/tfc-weather/license) | Environment | Weather |
 
 **Notes:**
-1. The definition of [Topography vs. Topology](https://thisvsthat.io/topography-vs-topology) may be useful in this discussion. 
-2. **Minecraft** at its core presumes a flat and *practically* infinite topology: 7 times the size of planet Earth surface area with a storage requirement simply beyond most enduser budget and access.
-3. "Curving" the topology can be accomplished in **Minecraft** by teleporting the player from one boundary to another. I dislike forced teleportation for this purpose. **Minecraft**'s world is flat.
-4. **Minecraft** Topography *suxx0rs*. Biomes are blotches dropped into the world based upon noise generation. There is no guiding principle for warm vs. cold biomes. There is also no hydrology. Surface water is set at a baseline of 63, rivers are gouged below that surface level and lakes are "smaller seas." Part of the appeal of **TFC** is that biomes are guided by the principle "atmospheric hydrology is driven east to west up to a count of blocks distant from origin (0x, 0z) and climate warmth is driven north to south by a similar count of blocks from origin.
-5. Surface erosion, streams, lakes are not a factor in **TFC** world generation. I would like erosion over time to be a factor. I would also prefer lakes and streams to form more naturally.
-6. In many aspects of **Minecraft** and modpacks in general, environmental dangers are due to supernatural monsters or other players. **TFC** brings more of the environment to the forefront as a hazard. Technology is the solution that brings its own problems.
+1. If the mod is not on **Modrinth**, I can not upload the datapack on **Modrinth**. Instead, once **pollinating sandboxes* is uploaded to a working version, I will ask politely for the modder to consider uploading to the Modrinth website. Best I can do.
+2. I need to confirm yet if **TFC Weather** requires **Weather2**
 
 ## C. TFC Magic?
 
