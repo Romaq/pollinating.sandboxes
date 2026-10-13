@@ -18,6 +18,7 @@
 **Notes:**
 1. If the mod is not on **Modrinth**, I can not upload the datapack on **Modrinth**. Instead, once **pollinating sandboxes* is uploaded to a working version, I will ask politely for the modder to consider uploading to the Modrinth website. Best I can do.
 2. I need to confirm yet if **TFC Weather** requires **Weather2**
+3. TerraFirmaEarth does not support Minecraft 1.21.1, and appeared to be the best worldgen modification.
 
 ## C. TFC Magic?
 
