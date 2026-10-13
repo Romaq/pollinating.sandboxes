@@ -1,14 +1,14 @@
 # Mod Table for *pollinating sandboxes*
 
 | Mod | Curseforge | Modrinth | Confirmed License | Category | Role |
-|---|-|-|---|---|---|
+|---|---|---|---|---|---|
 | **TerraFirmaCraft** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) | [:white_check_mark:](https://modrinth.com/mod/terrafirmacraft) | [EUPL-1.2](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/license) | Core | Core |
 | **Patchouli** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/patchouli) | [:white_check_mark:](https://modrinth.com/mod/patchouli) | [CC-BY-NC-SA-3.0](https://www.curseforge.com/minecraft/mc-mods/patchouli/license) | Dependency | **TerraFirmaCraft**
 | **Create** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create) | [:white_check_mark:](https://modrinth.com/mod/create) | [Create Mod License](https://github.com/Creators-of-Create/Create/blob/HEAD/LICENSE.md) | Core | Core | 
-| **Create Aeronautics** | Essential physics-based aircraft and mobile contraptions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) — 1.21.1 NeoForge listing verified | :white_check_mark: |  
-| **TFC Aeronautics** | Compatibility between TFC, Create, and Aeronautics. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) — 1.21.1 beta; test carefully | :x: |  
-| **TFCreate Compat** | Aligns Create recipes/materials with TFC's progression. | [GitHub](https://github.com/Ayaibu/TFCreate-Compat) — inspect supported builds and overlap with Sky Arc scripts | :white_check_mark: |  
-| **Create Aeronautics: Compatibility** | Addresses compatibility with other mods on moving contraptions. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability) — confirm actual need and interaction with TFC Aeronautics | :white_check_mark: |  
+| **Create Aeronautics** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics) | [Simulated Project License](https://github.com/Creators-of-Aeronautics/Simulated-Project/blob/HEAD/LICENSE.md) | Core | Core |
+| **TFC Aeronautics** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) | :x: | [MIT](https://opensource.org/license/MIT) | Dependency | TFC & Create |
+| **TFCreate Compat** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat) | [:white_check_mark:](https://modrinth.com/mod/tfcreate-compat) | [MIT](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat/license) | Dependency | TFC & Create
+| **Create Aeronautics: Compatibility** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics-compatability) | [MIT](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability/licensea) | Dependency | TFC & Create |
 
 **Important:** These are candidates, not a claim that all six work together without conflicts. Check dependencies, release versions, and duplicate recipe modifications before installation.
 
