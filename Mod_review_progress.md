@@ -41,6 +41,7 @@
 | **Dynamic Trees - TFC** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc) | [x]
 | **Dynamic Trees TFC - Seeds** | TFC Compatibility Layer | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-tfc-seeds) | [x]
 | **TFC Weather Systems** | More realistic weather for TFC | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tfc-weather-systems-realistic-weather-for) | [_]
+| **** | More realistic weather for TFC | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tfc-weather-systems-realistic-weather-for) | [_]
 
 **Notes:**
 1. The definition of [Topography vs. Topology](https://thisvsthat.io/topography-vs-topology) may be useful in this discussion. 
@@ -52,7 +53,13 @@
 
 ## C. TFC Magic?
 
-**Notes:** Looking at the place of Magic in the world, likely but not necessarily focused on Theorematurgy. More thought needs to be put into this area.
+| Mod | Why consider it | Link |
+|---|---|---|
+| **theorematurgy** | A magic system for adding a pinch of buff to mundane tools and weapons | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/theorematurgy) | [x] |
+| **TOM x TFC** | A TFC connetor | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc) | [x] |
+
+
+**Notes:** Minecraft Vanilla has hints of the supernatural (mods) and arcane (basic enchantments). A well designed magic system would be fitting and allow for an extra spice to the modpack.
 
 ## D. TFC survival expansion
 
