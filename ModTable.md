@@ -34,7 +34,7 @@
 | **TOM x TFC** | [:link:](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc/license) | Dependency | **theorematurgy** |
 | **Curios API** | [:link:](https://www.curseforge.com/minecraft/mc-mods/curios) | [GNU Lesser General...](https://www.curseforge.com/minecraft/mc-mods/curios/license) | Dependency | **theorematurgy** |
 | **Create Aeronautics x Curios API Compat** | [:link:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat/license) | Dependency | **Create Aeronautics** |
-| **Xaero's Minimap** | [:link:](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Interface | Map |
+| **Xaero's Minimap** | [:link:](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/license) | Interface | Map |
 | **Xaero's World Map** | [:link:](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/license) | Interface | Map |
 
 **Notes:**
