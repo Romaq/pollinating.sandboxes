@@ -19,8 +19,11 @@
 | **FTB Library (NeoForge)** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/license) | **FTB** | Dependency
 | **FTB Obsidian** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-obsidian) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-obsidian/license) | **FTB** | Datapack/ Resource Pack Loader
 | **Architectury API** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | [:white_check_mark:](https://modrinth.com/mod/architectury-api) | [LGPL-3.0-only](https://www.curseforge.com/minecraft/mc-mods/architectury-api/license) | Dependency | **FTB**
-| **theorematurgy** | A magic system for adding a pinch of buff to mundane tools and weapons | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/theorematurgy) | :white_check_mark: |
-| **TOM x TFC** | A TFC connetor | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc) | :white_check_mark: |
+| **theorematurgy** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/theorematurgy) | [:white_check_mark:](https://modrinth.com/mod/theorematurgy) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/theorematurgy/license) | Core | Magic |
+| **TOM x TFC** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc) | [:white_check_mark:](https://modrinth.com/mod/tom-x-tfc) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc/license) | Dependency | **theorematurgy** |
+| **Curios API** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/curios) | [:white_check_mark:](https://modrinth.com/mod/curios) | [GNU Lesser General...](https://www.curseforge.com/minecraft/mc-mods/curios/license) | Dependency | **theorematurgy** |
+| **Create Aeronautics x Curios API Compat** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics-x-curios-api-compat) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat/license) | Dependency | **Create Aeronautics**
+
 
 **Notes:**
 1. If the mod is not on **Modrinth**, I can not upload the datapack on **Modrinth**. Instead, once **pollinating sandboxes* is uploaded to a working version, I will ask politely for the modder to consider uploading to the Modrinth website. Best I can do.
@@ -46,16 +49,6 @@
 
 **Note:**
 1. The spelling "AirpresureFix" left as is. English may not be *Trophen_33's* first language, and it doesn't matter anyway. The icon is correct, and I'm grateful for this correction to air pressure within the game.
-
-## C. TFC Magic?
-
-| Mod | Why consider it | Link |
-|---|---|---|
-| **theorematurgy** | A magic system for adding a pinch of buff to mundane tools and weapons | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/theorematurgy) | :white_check_mark: |
-| **TOM x TFC** | A TFC connetor | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc) | :white_check_mark: |
-
-
-**Notes:** Minecraft Vanilla has hints of the supernatural (mods) and arcane (basic enchantments). A well designed magic system would be fitting and allow for an extra spice to the modpack.
 
 ## D. TFC survival expansion
 
@@ -93,7 +86,6 @@
 | Mod | Why consider it | Link |
 |---|---|---|
 | **FTB Quests** | Tutorials, optional quest branches, milestones, and rewards. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) |
-| **FTB Library / FTB Teams** | Add only the versions required by FTB Quests. | [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) · [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) |
 | **EMI** or &rarr;**JEI** | Recipe discovery and crafting paths; choose a primary recipe viewer. | [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) · [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) |
 | &rarr;**Jade** | Inspect blocks, inventories, and machinery in the world. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade) |
 | &rarr;**Xaero's Minimap** | Navigation and waypoints while prospecting. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) |
