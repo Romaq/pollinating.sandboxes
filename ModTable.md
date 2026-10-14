@@ -10,7 +10,6 @@
 | **TFC Aeronautics** | [:link:](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) | [MIT](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics/license) | Dependency | TFC & Create | 
 | **TFCreate Compat** | [:link:](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat) | [MIT](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat/license) | Dependency | TFC & Create |
 | **Create Aeronautics: Compatibility** | [:link:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability) | [MIT](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability/licensea) | Dependency | TFC & Create |
-| ~~TerraFirmaEarth~~ | [:link:](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth) | [EUPL-1.2](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth/license) | Environment | ***No 1.21.1*** |
 | **Dynamic Trees** | [:link:](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [MIT](https://www.curseforge.com/minecraft/mc-mods/dynamictrees/license) | Environment | Arborial |
 | **Dynamic Trees TFC** | [:link:](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [MIT](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc/license) | Dependency | **Dynamic Trees** |
 | **TFC Weather** | [:link:](https://www.curseforge.com/minecraft/mc-mods/tfc-weather) | [BSD License](https://www.curseforge.com/minecraft/mc-mods/tfc-weather/license) | Environment | Weather |
@@ -26,12 +25,17 @@
 | **FTB Ultimine** | [:link:](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/license) | **FTB** | Early Game Easement |
 | **Create Aeronautics: Ultimine Compatibility** | [:link:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-ultimine-compatibility) | [GPL-3.0-only](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-ultimine-compatibility) | Dependency | **FTB** |
 | **Architectury API** | [:link:](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | [LGPL-3.0-only](https://www.curseforge.com/minecraft/mc-mods/architectury-api/license) | Dependency | **FTB** |
-| **JEI** | [:link:](https://www.curseforge.com/minecraft/mc-mods/jei) | [MIT License](https://www.curseforge.com/minecraft/mc-mods/jei) | Interface | Item Identification |
+| **JEI** | [:link:](https://www.curseforge.com/minecraft/mc-mods/jei) | [MIT](https://www.curseforge.com/minecraft/mc-mods/jei) | Interface | Item Identification |
+| **Jade** | [:link:](https://www.curseforge.com/minecraft/mc-mods/jade) | [CC-BY-NC-SA-4.0](https://www.curseforge.com/minecraft/mc-mods/jade/license) | Interface | Item Identification |
+| **Jade Addons (Neo/Forge)** | [:link:](https://www.curseforge.com/minecraft/mc-mods/jade-addons) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/jade-addons) | Dependent | **Jade** |
+| **Jade Sable Compat** | [:link:](https://www.curseforge.com/minecraft/mc-mods/jade-sable-compat) | [MIT](https://www.curseforge.com/minecraft/mc-mods/jade-sable-compat/license)
 | **AppleSkin** | [:link:](https://www.curseforge.com/minecraft/mc-mods/appleskin) | [Public Domain](https://www.curseforge.com/minecraft/mc-mods/appleskin/license) | Interface | Hunger/ Health |
 | **theorematurgy** | [:link:](https://www.curseforge.com/minecraft/mc-mods/theorematurgy) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/theorematurgy/license) | Core | Magic |
 | **TOM x TFC** | [:link:](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc/license) | Dependency | **theorematurgy** |
 | **Curios API** | [:link:](https://www.curseforge.com/minecraft/mc-mods/curios) | [GNU Lesser General...](https://www.curseforge.com/minecraft/mc-mods/curios/license) | Dependency | **theorematurgy** |
 | **Create Aeronautics x Curios API Compat** | [:link:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat/license) | Dependency | **Create Aeronautics** |
+| **Xaero's Minimap** | [:link:](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Interface | Map |
+| **Xaero's World Map** | [:link:](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/license) | Interface | Map |
 
 **Notes:**
 1. **FTB** core files are only found on CurseForge, so Modrinth is no longer an option.
@@ -51,9 +55,9 @@
 | **Faithful 32x AppleSkin Addon** | [:link:](https://www.curseforge.com/minecraft/texture-packs/appleskin-x-faithful32) | [Creative Commons Attri...](https://www.curseforge.com/minecraft/texture-packs/appleskin-x-faithful32/license) |
 
 ## Datapack Table for **pollinating sandboxes**
-| Datapack | Curseforge | Modrinith | Confirmed License |
-|---|---|---|---|
-| **Create Aeronautics AirpresureFix** | [:link:](https://www.curseforge.com/minecraft/data-packs/create-aeronautics-airpresurefix) | [:link:](https://modrinth.com/datapack/create-aeronautics-airpresurefix) | [All Rights Reserved](https://modrinth.com/datapack/create-aeronautics-airpresurefix/license) |
+| Datapack | Curseforge | Confirmed License |
+|---|---|---|
+| **Create Aeronautics AirpresureFix** | [:link:](https://www.curseforge.com/minecraft/data-packs/create-aeronautics-airpresurefix) | [All Rights Reserved](https://modrinth.com/datapack/create-aeronautics-airpresurefix/license) |
 
 **Note:**
 1. The spelling "AirpresureFix" left as is. English may not be *Trophen_33's* first language, and it doesn't matter anyway. The icon is correct, and I'm grateful for this correction to air pressure within the game.
@@ -93,9 +97,6 @@
 
 | Mod | Why consider it | Link |
 |---|---|---|
-| &rarr;**Jade** | Inspect blocks, inventories, and machinery in the world. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade) |
-| &rarr;**Xaero's Minimap** | Navigation and waypoints while prospecting. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) |
-| &rarr;**Xaero's World Map** | World-scale mapping for exploration and travel routes. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) |
 | &rarr;**Mouse Tweaks** | Less repetitive inventory movement. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) |
 | &rarr;**Controlling** | Find and resolve keybind conflicts in a large modpack. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling) |
 
