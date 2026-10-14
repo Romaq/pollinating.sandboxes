@@ -39,7 +39,10 @@
 ## Datapack Table for **pollinating sandboxes**
 | Datapack | Curseforge | Modrinith | Confirmed License |
 |---|---|---|---|
-| **Create Aeronautics AirpresureFix[^1]** | [:white_check_mark:](https://www.curseforge.com/minecraft/data-packs/create-aeronautics-airpresurefix) | [:white_check_mark:](https://modrinth.com/datapack/create-aeronautics-airpresurefix) | [All Rights Reserved](https://modrinth.com/datapack/create-aeronautics-airpresurefix/license) |
+| **Create Aeronautics AirpresureFix** | [:white_check_mark:](https://www.curseforge.com/minecraft/data-packs/create-aeronautics-airpresurefix) | [:white_check_mark:](https://modrinth.com/datapack/create-aeronautics-airpresurefix) | [All Rights Reserved](https://modrinth.com/datapack/create-aeronautics-airpresurefix/license) |
+
+**Note:**
+1. The spelling "AirpresureFix" left as is. English may not be *Trophen_33's* first language, and it doesn't matter anyway. The icon is correct, and I'm grateful for this correction to air pressure within the game.
 
 ## C. TFC Magic?
 
