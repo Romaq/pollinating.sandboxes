@@ -36,6 +36,9 @@
 | **Create Aeronautics x Curios API Compat** | [:link:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat/license) | Dependency | **Create Aeronautics** |
 | **Xaero's Minimap** | [:link:](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/license) | Interface | Map |
 | **Xaero's World Map** | [:link:](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/license) | Interface | Map |
+| **FTB Chunks x Xaero's Compat |
+| Create Aeronautics: FTB Chunks |
+| FTB Chunks - Modded Support |
 
 **Notes:**
 1. **FTB** core files are only found on CurseForge, so Modrinth is no longer an option.
