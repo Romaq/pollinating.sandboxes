@@ -1,61 +1,59 @@
 # Mod Table for **pollinating sandboxes**
 
-| Mod | Curseforge | Modrinth | Confirmed License | Category | Role |
-|---|---|---|---|---|---|
-| **TerraFirmaCraft** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) | [:white_check_mark:](https://modrinth.com/mod/terrafirmacraft) | [EUPL-1.2](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/license) | Core | Realistic Atmosphere |
-| **Patchouli** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/patchouli) | [:white_check_mark:](https://modrinth.com/mod/patchouli) | [CC-BY-NC-SA-3.0](https://www.curseforge.com/minecraft/mc-mods/patchouli/license) | Dependency | **TerraFirmaCraft** |
-| **Create** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create) | [:white_check_mark:](https://modrinth.com/mod/create) | [Create Mod](https://github.com/Creators-of-Create/Create/blob/HEAD/LICENSE.md) | Core | Tech Arc |
-| **Create Aeronautics** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics) | [Simulated Project](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics/license) | Core | Tech Arc |
-| **Sable** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/sable) | [:white_check_mark:](https://modrinth.com/mod/sable) | [PolyForm Shield](https://www.curseforge.com/minecraft/mc-mods/sable/license) | Dependency | **Create Aeronautics** |
-| **TFC Aeronautics** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) | :x: | [MIT](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics/license) | Dependency | TFC & Create | 
-| **TFCreate Compat** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat) | [:white_check_mark:](https://modrinth.com/mod/tfcreate-compat) | [MIT](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat/license) | Dependency | TFC & Create |
-| **Create Aeronautics: Compatibility** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics-compatability) | [MIT](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability/licensea) | Dependency | TFC & Create |
-| ~~TerraFirmaEarth~~ | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth) | :x: | [EUPL-1.2](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth/license) | Environment | ***No 1.21.1*** |
-| **Dynamic Trees** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [:white_check_mark:](https://modrinth.com/mod/dynamictrees) | [MIT](https://www.curseforge.com/minecraft/mc-mods/dynamictrees/license) | Environment | Arborial |
-| **Dynamic Trees TFC** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [:white_check_mark:](https://modrinth.com/mod/dynamictreestfc) | [MIT](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc/license) | Dependency | **Dynamic Trees** |
-| ~~Dynamic Trees TFC - Seeds~~ | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-tfc-seeds) | [:white_check_mark:](https://modrinth.com/mod/dynamic-trees-tfc-seeds) | [MIT](https://modrinth.com/mod/dynamic-trees-tfc-seeds/license) | Dependent | ***No 1.21.1*** |
-| **TFC Weather** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfc-weather) | [:white_check_mark:](https://modrinth.com/mod/tfc-weather) | [BSD License](https://www.curseforge.com/minecraft/mc-mods/tfc-weather/license) | Environment | Weather |
-| **TFCScorch&Frost** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tfcsf-tfcscorch-frost) | :x: | [MIT](https://www.curseforge.com/minecraft/mc-mods/license) | Environment | Weather |
-| **FTB Library (NeoForge)** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/license) | **FTB** | Dependency |
-| **FTB Obsidian** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-obsidian) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-obsidian/license) | **FTB** | Datapack/ Resource Pack Loader | 
-| **FTB Quests(NeoForge)** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/license) | **FTB** | Quest/ Progression Help |
-| **FTB Essentials** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials/license) | **FTB** | Multiplayer Easements |
-| **FTB Ranks** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge/license) | **FTB** | Multiplayer Easements |
-| **FTB XMod Compat** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat/license) | **FTB** | JEI Compatability |
-| **FTB Chunks** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)| :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge/license) | **FTB** | Simple Chunk Loading |
-| **FTB Teams** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) | **FTB** | Multiplayer Quest Help |
-| **FTB Ultimine** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/license) | **FTB** | Early Game Easement |
-| **Create Aeronautics: Ultimine Compatibility** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-ultimine-compatibility) | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-ultimine-compatibility) | [GPL-3.0-only](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-ultimine-compatibility) | Dependency | **FTB** |
-| **Architectury API** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | [:white_check_mark:](https://modrinth.com/mod/architectury-api) | [LGPL-3.0-only](https://www.curseforge.com/minecraft/mc-mods/architectury-api/license) | Dependency | **FTB** |
-| **JEI** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/jei) | [:white_check_mark:](https://modrinth.com/mod/jei) | [MIT License](https://www.curseforge.com/minecraft/mc-mods/jei) | Interface | Item Identification |
-| **AppleSkin** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/appleskin) | [:white_check_mark:](https://modrinth.com/mod/appleskin) | [Public Domain](https://www.curseforge.com/minecraft/mc-mods/appleskin/license) | Interface | Hunger/ Health |
-| **theorematurgy** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/theorematurgy) | [:white_check_mark:](https://modrinth.com/mod/theorematurgy) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/theorematurgy/license) | Core | Magic |
-| **TOM x TFC** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc) | [:white_check_mark:](https://modrinth.com/mod/tom-x-tfc) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc/license) | Dependency | **theorematurgy** |
-| **Curios API** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/curios) | [:white_check_mark:](https://modrinth.com/mod/curios) | [GNU Lesser General...](https://www.curseforge.com/minecraft/mc-mods/curios/license) | Dependency | **theorematurgy** |
-| **Create Aeronautics x Curios API Compat** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat) | [:white_check_mark:](https://modrinth.com/mod/create-aeronautics-x-curios-api-compat) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat/license) | Dependency | **Create Aeronautics** |
-
+| Mod | Link | Confirmed License | Category | Role |
+|---|---|---|---|---|
+| **TerraFirmaCraft** | [:link:](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) | [EUPL-1.2](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/license) | Core | Realistic Atmosphere |
+| **Patchouli** | [:link:](https://www.curseforge.com/minecraft/mc-mods/patchouli) | [CC-BY-NC-SA-3.0](https://www.curseforge.com/minecraft/mc-mods/patchouli/license) | Dependency | **TerraFirmaCraft** |
+| **Create** | [:link:](https://www.curseforge.com/minecraft/mc-mods/create) | [Create Mod](https://github.com/Creators-of-Create/Create/blob/HEAD/LICENSE.md) | Core | Tech Arc |
+| **Create Aeronautics** | [:link:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) | [Simulated Project](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics/license) | Core | Tech Arc |
+| **Sable** | [:link:](https://www.curseforge.com/minecraft/mc-mods/sable) | [PolyForm Shield](https://www.curseforge.com/minecraft/mc-mods/sable/license) | Dependency | **Create Aeronautics** |
+| **TFC Aeronautics** | [:link:](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics) | [MIT](https://www.curseforge.com/minecraft/mc-mods/tfc-aeronautics/license) | Dependency | TFC & Create | 
+| **TFCreate Compat** | [:link:](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat) | [MIT](https://www.curseforge.com/minecraft/mc-mods/tfcreate-compat/license) | Dependency | TFC & Create |
+| **Create Aeronautics: Compatibility** | [:link:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability) | [MIT](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-compatability/licensea) | Dependency | TFC & Create |
+| ~~TerraFirmaEarth~~ | [:link:](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth) | [EUPL-1.2](https://www.curseforge.com/minecraft/mc-mods/terrafirmaearth/license) | Environment | ***No 1.21.1*** |
+| **Dynamic Trees** | [:link:](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [MIT](https://www.curseforge.com/minecraft/mc-mods/dynamictrees/license) | Environment | Arborial |
+| **Dynamic Trees TFC** | [:link:](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) | [MIT](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc/license) | Dependency | **Dynamic Trees** |
+| **TFC Weather** | [:link:](https://www.curseforge.com/minecraft/mc-mods/tfc-weather) | [BSD License](https://www.curseforge.com/minecraft/mc-mods/tfc-weather/license) | Environment | Weather |
+| **TFCScorch&Frost** | [:link:](https://www.curseforge.com/minecraft/mc-mods/tfcsf-tfcscorch-frost) | [MIT](https://www.curseforge.com/minecraft/mc-mods/license) | Environment | Weather |
+| **FTB Library (NeoForge)** | [:link:](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/license) | **FTB** | Dependency |
+| **FTB Obsidian** | [:link:](https://www.curseforge.com/minecraft/mc-mods/ftb-obsidian) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-obsidian/license) | **FTB** | Datapack/ Resource Pack Loader | 
+| **FTB Quests(NeoForge)** | [:link:](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/license) | **FTB** | Quest/ Progression Help |
+| **FTB Essentials** | [:link:](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials/license) | **FTB** | Multiplayer Easements |
+| **FTB Ranks** | [:link:](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge/license) | **FTB** | Multiplayer Easements |
+| **FTB XMod Compat** | [:link:](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat/license) | **FTB** | JEI Compatability |
+| **FTB Chunks** | [:link:](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)| [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge/license) | **FTB** | Simple Chunk Loading |
+| **FTB Teams** | [:link:](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) | **FTB** | Multiplayer Quest Help |
+| **FTB Ultimine** | [:link:](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/license) | **FTB** | Early Game Easement |
+| **Create Aeronautics: Ultimine Compatibility** | [:link:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-ultimine-compatibility) | [GPL-3.0-only](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-ultimine-compatibility) | Dependency | **FTB** |
+| **Architectury API** | [:link:](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | [LGPL-3.0-only](https://www.curseforge.com/minecraft/mc-mods/architectury-api/license) | Dependency | **FTB** |
+| **JEI** | [:link:](https://www.curseforge.com/minecraft/mc-mods/jei) | [MIT License](https://www.curseforge.com/minecraft/mc-mods/jei) | Interface | Item Identification |
+| **AppleSkin** | [:link:](https://www.curseforge.com/minecraft/mc-mods/appleskin) | [Public Domain](https://www.curseforge.com/minecraft/mc-mods/appleskin/license) | Interface | Hunger/ Health |
+| **theorematurgy** | [:link:](https://www.curseforge.com/minecraft/mc-mods/theorematurgy) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/theorematurgy/license) | Core | Magic |
+| **TOM x TFC** | [:link:](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc/license) | Dependency | **theorematurgy** |
+| **Curios API** | [:link:](https://www.curseforge.com/minecraft/mc-mods/curios) | [GNU Lesser General...](https://www.curseforge.com/minecraft/mc-mods/curios/license) | Dependency | **theorematurgy** |
+| **Create Aeronautics x Curios API Compat** | [:link:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat/license) | Dependency | **Create Aeronautics** |
 
 **Notes:**
-1. If the mod is not on **Modrinth**, I can not upload the datapack on **Modrinth**. Instead, once **pollinating sandboxes* is uploaded to a working version, I will ask politely for the modder to consider uploading to the Modrinth website. Best I can do.
+1. **FTB** core files are only found on CurseForge, so Modrinth is no longer an option.
 2. I need to confirm yet if **TFC Weather** requires **Weather2**
 3. ***TerraFirmaEarth*** does not support ***Minecraft*** 1.21.1, and appeared to be the best (*only*) worldgen modification.
 4. ***Dynamic trees TFC - Seeds***, same issue. No support for ***MC*** 1.21.1.
 5. A bit of coherent magic would appear appropriate, but not from conflicting mods. It should be coherent, comprehensive, and scalable with **TFC** materials as they become available.
 
 ## Resource Pack Table for **pollinating sandboxes**
-| Resource Pack | Curseforge | Modrinth | Confirmed License |
-|---|---|---|---|
-| **Faithful 32x** | [:white_check_mark:](https://www.curseforge.com/minecraft/texture-packs/faithful-32x) | [:white_check_mark:](https://modrinth.com/resourcepack/faithful-32x) | [Faithful](https://www.curseforge.com/minecraft/texture-packs/faithful-32x/license) |
-| **ILAORE's TFC 32x** | [:white_check_mark:](https://www.curseforge.com/minecraft/texture-packs/ilaores-tfc-32x) | [:white_check_mark:](https://modrinth.com/resourcepack/ilaores-tfc-32x) | [MIT](https://www.curseforge.com/minecraft/texture-packs/ilaores-tfc-32x/license) |
-| **Anvilovel** | [:white_check_mark:](https://www.curseforge.com/minecraft/texture-packs/anvilovel) | :x: | [Creative Commons 4.0](https://www.curseforge.com/minecraft/texture-packs/anvilovel) |
-| **Bushy Leaves for Faithful 32x** | [:white_check_mark:](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-for-faithful-32x) | [:white_check_mark:](https://modrinth.com/resourcepack/bushy-leaves-for-faithful-32x) | [Public Domain](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-for-faithful-32x/license)
-| **Improved Create 32x** | [:white_check_mark:](https://www.curseforge.com/minecraft/texture-packs/improved-create-32x) | [:white_check_mark:](https://modrinth.com/resourcepack/improved-create-32x) | [MIT License](https://www.curseforge.com/minecraft/texture-packs/improved-create-32x/license) |
-| **Faithful 32x AppleSkin Addon** | [:white_check_mark:](https://www.curseforge.com/minecraft/texture-packs/appleskin-x-faithful32) | :x: | [Creative Commons Attri...](https://www.curseforge.com/minecraft/texture-packs/appleskin-x-faithful32/license) |
+| Resource Pack | Curseforge | Confirmed License |
+|---|---|---|
+| **Faithful 32x** | [:link:](https://www.curseforge.com/minecraft/texture-packs/faithful-32x) | [Faithful](https://www.curseforge.com/minecraft/texture-packs/faithful-32x/license) |
+| **ILAORE's TFC 32x** | [:link:](https://www.curseforge.com/minecraft/texture-packs/ilaores-tfc-32x) | [MIT](https://www.curseforge.com/minecraft/texture-packs/ilaores-tfc-32x/license) |
+| **Anvilovel** | [:link:](https://www.curseforge.com/minecraft/texture-packs/anvilovel) | [Creative Commons 4.0](https://www.curseforge.com/minecraft/texture-packs/anvilovel) |
+| **Bushy Leaves for Faithful 32x** | [:link:](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-for-faithful-32x) | [Public Domain](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-for-faithful-32x/license)
+| **Improved Create 32x** | [:link:](https://www.curseforge.com/minecraft/texture-packs/improved-create-32x) | [MIT License](https://www.curseforge.com/minecraft/texture-packs/improved-create-32x/license) |
+| **Faithful 32x AppleSkin Addon** | [:link:](https://www.curseforge.com/minecraft/texture-packs/appleskin-x-faithful32) | [Creative Commons Attri...](https://www.curseforge.com/minecraft/texture-packs/appleskin-x-faithful32/license) |
 
 ## Datapack Table for **pollinating sandboxes**
 | Datapack | Curseforge | Modrinith | Confirmed License |
 |---|---|---|---|
-| **Create Aeronautics AirpresureFix** | [:white_check_mark:](https://www.curseforge.com/minecraft/data-packs/create-aeronautics-airpresurefix) | [:white_check_mark:](https://modrinth.com/datapack/create-aeronautics-airpresurefix) | [All Rights Reserved](https://modrinth.com/datapack/create-aeronautics-airpresurefix/license) |
+| **Create Aeronautics AirpresureFix** | [:link:](https://www.curseforge.com/minecraft/data-packs/create-aeronautics-airpresurefix) | [:link:](https://modrinth.com/datapack/create-aeronautics-airpresurefix) | [All Rights Reserved](https://modrinth.com/datapack/create-aeronautics-airpresurefix/license) |
 
 **Note:**
 1. The spelling "AirpresureFix" left as is. English may not be *Trophen_33's* first language, and it doesn't matter anyway. The icon is correct, and I'm grateful for this correction to air pressure within the game.
