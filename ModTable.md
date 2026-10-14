@@ -36,9 +36,31 @@
 | **Create Aeronautics x Curios API Compat** | [:link:](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-x-curios-api-compat/license) | Dependency | **Create Aeronautics** |
 | **Xaero's Minimap** | [:link:](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/license) | Interface | Map |
 | **Xaero's World Map** | [:link:](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/license) | Interface | Map |
-| **FTB Chunks x Xaero's Compat |
+| **FTB Chunks x Xaero's Compat** |
 | Create Aeronautics: FTB Chunks |
+| Create - Xaero's map |
 | FTB Chunks - Modded Support |
+| Compass to Map: Xaero's |
+| Jade: FTB Chunks Claim Info |
+| Compass to Map: FTB |
+| ATO - All the Ores |
+| Allthemodium |
+| Caelum |
+| TFC Caelum - 1.20.1 !!! |
+| Blaze Map |
+| Cartography |
+| Coastal Waves |
+| Corail Tombstone |
+| Distant Horizons |
+| Lootr |
+| Potions Master |
+| TFC Ambiental - Second edition |
+| TFC Volcanoes |
+| TFC Workers |
+| Villager-workers |
+| Villager-recruits |
+| TFCGenViewer |
+| Spark |
 
 **Notes:**
 1. **FTB** core files are only found on CurseForge, so Modrinth is no longer an option.
@@ -116,5 +138,3 @@
 - [TerraFirmaCraft: Sky Arc](https://www.curseforge.com/minecraft/search?class=modpacks&search=TerraFirmaCraft%20Sky%20Arc) — reference for TFC/Create/Aeronautics recipe integration; inspect license before copying scripts.
 - [All the Mods: Gravitas²](https://www.curseforge.com/minecraft/modpacks/all-the-mods-gravitas2) — reference for quests and instructional progression, **not** for GregTech gating.
 - [Terraero](https://www.curseforge.com/minecraft/search?class=modpacks&search=Terraero) — optional industrial and aircraft ideas.
-
-[^1] Sic
