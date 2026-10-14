@@ -19,12 +19,15 @@
 | **FTB Library (NeoForge)** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/license) | **FTB** | Dependency
 | **FTB Obsidian** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/ftb-obsidian) | :x: | [All Rights Reserved](https://www.curseforge.com/minecraft/mc-mods/ftb-obsidian/license) | **FTB** | Datapack/ Resource Pack Loader
 | **Architectury API** | [:white_check_mark:](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | [:white_check_mark:](https://modrinth.com/mod/architectury-api) | [LGPL-3.0-only](https://www.curseforge.com/minecraft/mc-mods/architectury-api/license) | Dependency | **FTB**
+| **theorematurgy** | A magic system for adding a pinch of buff to mundane tools and weapons | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/theorematurgy) | :white_check_mark: |
+| **TOM x TFC** | A TFC connetor | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tom-x-tfc) | :white_check_mark: |
 
 **Notes:**
 1. If the mod is not on **Modrinth**, I can not upload the datapack on **Modrinth**. Instead, once **pollinating sandboxes* is uploaded to a working version, I will ask politely for the modder to consider uploading to the Modrinth website. Best I can do.
 2. I need to confirm yet if **TFC Weather** requires **Weather2**
 3. ***TerraFirmaEarth*** does not support ***Minecraft*** 1.21.1, and appeared to be the best (*only*) worldgen modification.
 4. ***Dynamic trees TFC - Seeds***, same issue. No support for ***MC*** 1.21.1.
+5. A bit of coherent magic would appear appropriate, but not from conflicting mods. It should be coherent, comprehensive, and scalable with **TFC** materials as they become available.
 
 ## Resource Pack Table for **pollinating sandboxes**
 | Resource Pack | Curseforge | Modrinth | Confirmed License |
