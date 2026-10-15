@@ -1,7 +1,14 @@
 # **pollinating sandboxes**
 Why "**pollinating sandboxes**"? It is a string that can be used as a minecraft seed to generate "seed 0", a seed that cannot be entered directly as it just becomes a random seed.
 
-## Source Images
+## Source Images  
+[I miss Comic Sans.](https://www.instagram.com/themokumentary/p/DedXGgeyrUe/)  
+[![I miss Comic Sans.](https://raw.githubusercontent.com/Romaq/pollinating.sandboxes/refs/heads/assets/assets/themokumentaruy-comic-sans.jpg)](https://www.instagram.com/p/DedXGgeyrUe/?psln=dXRwbmF1MWZtd2I3)  
+\*Note: This image is only used to explain with a link to the source. As a style choice, I will use Comic Sans in honor of this comic by \@THEMOKUMENTARY.
+---
+[Creative Tail Animal bee](https://commons.wikimedia.org/wiki/File:Creative-Tail-Animal-bee.svg)  
+[![Bee source svg](https://upload.wikimedia.org/wikipedia/commons/1/1f/Creative-Tail-Animal-bee.svg)](https://commons.wikimedia.org/wiki/File:Creative-Tail-Animal-bee.svg)  
+---
 [Rippled Sand - Seamless/Any Degree](https://www.filterforge.com/filters/14244.html) By Zep Palen  
 [![Sand Background](https://www.filterforge.com/filters/14244.jpg)](https://www.filterforge.com/filters/14244.html)  
 ---
