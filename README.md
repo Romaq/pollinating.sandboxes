@@ -1,3 +1,7 @@
+# Project name change
+
+At this stage of development, a more suitable name and management of the project is created as [The Long Climb](https://github.com/Romaq/TheLongClimb). Please refer to that repository as a fresh start from this project. At some point I expect to delete this repository as *The Long Climb* has incorporated anything useful from this project.
+
 # pollinating sandboxes
 *pollinating sandboxes* is a Minecraft modpack rooted in TerraFirmaCraft (TFC) to combine Create Mods (including Create Aeronautics) and select mods to facilitate a technical progression as inspired by the quote, "Per aspera ad astra - Through hardships to the stars." Further direction is best stated by [*All The Mods - Gravitas²*](https://www.curseforge.com/minecraft/modpacks/all-the-mods-gravitas2), "You will voyage from a primitive beginning, smashing rocks together, to smashing atoms together, to power your voyages to the stars and beyond!"
 
